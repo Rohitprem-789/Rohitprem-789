@@ -2,7 +2,7 @@
 
 Hi, I'm **Rohit** — a curious developer, problem-solver, and digital builder.
 
-🌱 I'm a 2nd-year **BCA student at Kristu Jayanti College**, constantly learning and creating.
+🌱 I'm a Final-year **BCA student at Kristu Jayanti University**, constantly learning and creating.
 
 💡 I'm passionate about turning ideas into useful web products — from simple UI concepts to smart backend integrations.
 
