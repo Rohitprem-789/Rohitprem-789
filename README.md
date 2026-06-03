@@ -81,8 +81,8 @@ print(me.motto())
 **AI & Automation**
 
 ![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-BF91F3?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-38BDAE?style=flat-square&logo=anthropic&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-BF91F3?style=flat-square&logo=python&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-38BDAE?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
