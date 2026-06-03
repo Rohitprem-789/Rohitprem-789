@@ -151,6 +151,8 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
 | **Bachelor of Computer Applications (BCA)** | Kristu Jayanti College, Bengaluru | 2023 – 2026 | **8.33 / 10** |
+| **12th - PUC(CEBA)** | St. Claret PRE-University College, Bengaluru | 2021 – 2022 | **74.89** |
+| **10th - SSLC** | Nehru Centenary English School, Bengaluru | 2011 – 2021 | **60.90** |
 
 </div>
 
