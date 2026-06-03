@@ -121,6 +121,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
+| [**🤖 AI-Agent RAG Application**](#) | Python · Ollama · RAG |Built a Local RAG (Retrieval-Augmented Generation) system using Python, LangChain, ChromaDB, SentenceTransformers, and Ollama to answer questions from uploaded documents using semantic search and local LLMs. Reads files and gives you the answers within seconds. |
 | [**🤖 AI-Powered Resume Generator**](#) | Python · Google Gemini API · REST APIs · OOP | Multi-module AI app using OOP design patterns; production-grade API integration with retry logic, rate-limit handling, and structured JSON parsing; prompt engineering pipeline with validation & fallback layers |
 | [**🏦 Loan Management System**](#) | Python · MySQL · SQL · OOP · Relational Data Modeling | Normalized relational schema for loan records & repayment schedules; polymorphic repayment handling; DB-level integrity constraints (foreign keys, triggers, transactions); automated multi-dimensional reporting modules |
 | [**🍳 ChefBot — Conversational AI Assistant**](#) | Python · NLP · OOP · State Machine Design | End-to-end conversational assistant with stateful multi-turn dialogue engine; trie-based keyword lookup & priority-based intent ranking; extensible pipeline enabling new intents without modifying core logic |
@@ -135,12 +136,12 @@ print(me.motto())
 
 | 🏷️ | Achievement | Details |
 |:---|:------------|:--------|
-| 🎓 | **BCA — Kristu Jayanti College** | CGPA: **8.33 / 10** · 2023–2026 |
 | 🤖 | **IBM Prompt Engineering for AI** | Practical AI application development, API workflow design & LLM integration |
 | 📊 | **Deloitte Data Analytics Virtual Simulation** | SQL-based data analysis, BI reporting & structured problem-solving |
 | 🐍 | **Python & AI Development Certification** | Advanced Python, OOP patterns, automation scripting & AI model integration |
 | 🌐 | **Infosys Network Fundamentals** | TCP/IP, DNS, HTTP, distributed networking concepts for cloud & backend |
 | 🚀 | **NASSCOM FutureSkills Prime** | Technology competency framework aligned to industry software engineering standards |
+| 📊 | **Data Analyst Certification** | learnt analyzing Data using python pandas and numpy |
 
 </div>
 
