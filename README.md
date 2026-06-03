@@ -89,7 +89,7 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rohit-prem-bcmc">
+  <a href="https://github.com/rohitprem-789">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-prem-bcmc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/rohit-prem-bcmc">
@@ -99,41 +99,11 @@ print(me.motto())
 
 ---
 
-🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rohit-prem-bcmc&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-prem-bcmc&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-prem-bcmc&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
 💼 Work Experience
 <details>
   <summary><strong>🏢 JIVOJAS Pvt Ltd — Software Development & Process Intern &nbsp;|&nbsp; Jun 2025 – Jul 2025 &nbsp;|&nbsp; Bengaluru, Karnataka</strong></summary>
   <br/>
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-
+  
 🧩 Developed and maintained responsive web applications using React.js, HTML5, CSS3, and JavaScript — applying OOP design principles to build modular, reusable component architecture.
 🔗 Integrated frontend UI with backend REST APIs, implementing structured error handling, data validation, and retry logic to improve reliability across distributed service layers.
 🐛 Performed systematic root-cause analysis and debugging on application defects, designing reproducible test cases and resolution workflows to eliminate recurring issues.
