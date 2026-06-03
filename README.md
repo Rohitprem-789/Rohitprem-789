@@ -85,6 +85,21 @@ print(me.motto())
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-38BDAE?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:-------|:------------|:----:|:-----:|
+| **Bachelor of Computer Applications (BCA)** | Kristu Jayanti College, Bengaluru | 2023 – 2026 | **8.33 / 10** |
+| **12th - PUC(CEBA)** | St. Claret PRE-University College, Bengaluru | 2021 – 2022 | **74.89** |
+| **10th - SSLC** | Nehru Centenary English School, Bengaluru | 2011 – 2021 | **60.90** |
+
+</div>
+
+**Relevant Coursework:** Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems · Operating Systems (Linux) · Computer Networks · Software Engineering · Discrete Mathematics
+
+---
 
 💼 Work Experience
 <details>
@@ -128,22 +143,6 @@ print(me.motto())
 | 🚀 | **NASSCOM FutureSkills Prime** | Technology competency framework aligned to industry software engineering standards |
 
 </div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| **Bachelor of Computer Applications (BCA)** | Kristu Jayanti College, Bengaluru | 2023 – 2026 | **8.33 / 10** |
-| **12th - PUC(CEBA)** | St. Claret PRE-University College, Bengaluru | 2021 – 2022 | **74.89** |
-| **10th - SSLC** | Nehru Centenary English School, Bengaluru | 2011 – 2021 | **60.90** |
-
-</div>
-
-**Relevant Coursework:** Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems · Operating Systems (Linux) · Computer Networks · Software Engineering · Discrete Mathematics
 
 ---
 
