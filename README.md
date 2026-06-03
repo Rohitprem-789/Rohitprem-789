@@ -141,7 +141,7 @@ print(me.motto())
 | 🐍 | **Python & AI Development Certification** | Advanced Python, OOP patterns, automation scripting & AI model integration |
 | 🌐 | **Infosys Network Fundamentals** | TCP/IP, DNS, HTTP, distributed networking concepts for cloud & backend |
 | 🚀 | **NASSCOM FutureSkills Prime** | Technology competency framework aligned to industry software engineering standards |
-| 📊 | **Data Analyst Certification** | learnt analyzing Data using python pandas and numpy |
+| 📊 | **Data Analyst Certification - ITCInfotech, ITCAcademy** | learnt analyzing Data using python pandas and numpy |
 
 </div>
 
