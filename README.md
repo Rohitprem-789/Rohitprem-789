@@ -86,19 +86,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/rohitprem-789">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-prem-bcmc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/rohit-prem-bcmc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-prem-bcmc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
 💼 Work Experience
 <details>
   <summary><strong>🏢 JIVOJAS Pvt Ltd — Software Development & Process Intern &nbsp;|&nbsp; Jun 2025 – Jul 2025 &nbsp;|&nbsp; Bengaluru, Karnataka</strong></summary>
