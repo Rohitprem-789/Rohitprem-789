@@ -99,12 +99,10 @@ print(me.motto())
 
 ---
 
-## 🔥 Streak Stats
-
+🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=[rohit-prem-bcmc](https://www.linkedin.com/in/rohit-prem-bcmc/)&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rohit-prem-bcmc&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
-
 ---
 
 ## 📈 Activity Graph
@@ -123,23 +121,23 @@ print(me.motto())
 
 ---
 
-## 💼 Work Experience
-
+💼 Work Experience
 <details>
   <summary><strong>🏢 JIVOJAS Pvt Ltd — Software Development & Process Intern &nbsp;|&nbsp; Jun 2025 – Jul 2025 &nbsp;|&nbsp; Bengaluru, Karnataka</strong></summary>
   <br/>
 
-  > ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-  > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  > ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  > ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  > ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-  - 🧩 Developed and maintained **responsive web applications** using React.js, HTML5, CSS3, and JavaScript — applying OOP design principles to build modular, reusable component architecture.
-  - 🔗 Integrated frontend UI with backend **REST APIs**, implementing structured error handling, data validation, and retry logic to improve reliability across distributed service layers.
-  - 🐛 Performed systematic **root-cause analysis** and debugging on application defects, designing reproducible test cases and resolution workflows to eliminate recurring issues.
-  - ⚡ Collaborated within **2-week Agile sprints** — participated in standups, backlog grooming, and retrospectives to deliver features on schedule with cross-functional teams; managed Git branching strategies and CI/CD deployment pipelines across staging and production.
+
+🧩 Developed and maintained responsive web applications using React.js, HTML5, CSS3, and JavaScript — applying OOP design principles to build modular, reusable component architecture.
+🔗 Integrated frontend UI with backend REST APIs, implementing structured error handling, data validation, and retry logic to improve reliability across distributed service layers.
+🐛 Performed systematic root-cause analysis and debugging on application defects, designing reproducible test cases and resolution workflows to eliminate recurring issues.
+⚡ Collaborated within 2-week Agile sprints — participated in standups, backlog grooming, and retrospectives to deliver features on schedule with cross-functional teams; managed Git branching strategies and CI/CD deployment pipelines across staging and production.
 
 </details>
 
